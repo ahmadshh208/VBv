@@ -1,0 +1,4 @@
+Contact: https://jowner526202-hash.github.io/VBv/support
+Expires: 2027-01-01T00:00:00.000Z
+Policy: https://jowner526202-hash.github.io/VBv/policy
+Encryption: https://jowner526202-hash.github.io/VBv/pgp-key.asc
