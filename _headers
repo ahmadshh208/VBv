@@ -1,0 +1,4 @@
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://api.telegram.org; connect-src 'self' https://api.telegram.org https://ipapi.co; img-src 'self' data: https://api.telegram.org;
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
